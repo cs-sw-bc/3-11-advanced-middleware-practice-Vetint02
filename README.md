@@ -125,7 +125,7 @@ All database access must:
 
 ## Part 5 — Middleware
 
-Once routes are working, add middleware.
+Once routes are working, add middleware.  
 
 ### 1️⃣ Custom Logger Middleware
 

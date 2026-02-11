@@ -1,0 +1,27 @@
+{
+  "name": "3-11-advanced-middleware-practice-vetint02",
+  "version": "1.0.0",
+  "description": "middleware-practice",
+  "homepage": "https://github.com/cs-sw-bc/3-11-advanced-middleware-practice-Vetint02#readme",
+  "bugs": {
+    "url": "https://github.com/cs-sw-bc/3-11-advanced-middleware-practice-Vetint02/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-sw-bc/3-11-advanced-middleware-practice-Vetint02.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.0",
+    "nodemon": "^3.1.11"
+  },
+  "devDependencies": {}
+}
