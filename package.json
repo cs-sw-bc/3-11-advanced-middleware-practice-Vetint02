@@ -19,9 +19,9 @@
     "start": "nodemon server.js"
   },
   "dependencies": {
+    "chalk": "^5.6.2",
     "express": "^5.2.1",
     "mongoose": "^9.2.0",
     "nodemon": "^3.1.11"
-  },
-  "devDependencies": {}
+  }
 }
