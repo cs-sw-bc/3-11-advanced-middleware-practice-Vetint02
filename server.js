@@ -1,5 +1,6 @@
 import express from 'express';
 import mongoose from 'mongoose';
+import chalk from "chalk"
 import enrollment from './routes/enrollmentRoute.js';
 
 const app = express();
